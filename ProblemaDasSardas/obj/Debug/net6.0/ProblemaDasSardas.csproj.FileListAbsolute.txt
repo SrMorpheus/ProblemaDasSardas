@@ -1,0 +1,15 @@
+C:\Users\BrunoGonçalvesBarros\Desktop\Bruno\Ciência da Computação\AlgoritmoKahn\ProblemaDasSardas\ProblemaDasSardas\bin\Debug\net6.0\ProblemaDasSardas.exe
+C:\Users\BrunoGonçalvesBarros\Desktop\Bruno\Ciência da Computação\AlgoritmoKahn\ProblemaDasSardas\ProblemaDasSardas\bin\Debug\net6.0\ProblemaDasSardas.deps.json
+C:\Users\BrunoGonçalvesBarros\Desktop\Bruno\Ciência da Computação\AlgoritmoKahn\ProblemaDasSardas\ProblemaDasSardas\bin\Debug\net6.0\ProblemaDasSardas.runtimeconfig.json
+C:\Users\BrunoGonçalvesBarros\Desktop\Bruno\Ciência da Computação\AlgoritmoKahn\ProblemaDasSardas\ProblemaDasSardas\bin\Debug\net6.0\ProblemaDasSardas.dll
+C:\Users\BrunoGonçalvesBarros\Desktop\Bruno\Ciência da Computação\AlgoritmoKahn\ProblemaDasSardas\ProblemaDasSardas\bin\Debug\net6.0\ProblemaDasSardas.pdb
+C:\Users\BrunoGonçalvesBarros\Desktop\Bruno\Ciência da Computação\AlgoritmoKahn\ProblemaDasSardas\ProblemaDasSardas\obj\Debug\net6.0\ProblemaDasSardas.csproj.AssemblyReference.cache
+C:\Users\BrunoGonçalvesBarros\Desktop\Bruno\Ciência da Computação\AlgoritmoKahn\ProblemaDasSardas\ProblemaDasSardas\obj\Debug\net6.0\ProblemaDasSardas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BrunoGonçalvesBarros\Desktop\Bruno\Ciência da Computação\AlgoritmoKahn\ProblemaDasSardas\ProblemaDasSardas\obj\Debug\net6.0\ProblemaDasSardas.AssemblyInfoInputs.cache
+C:\Users\BrunoGonçalvesBarros\Desktop\Bruno\Ciência da Computação\AlgoritmoKahn\ProblemaDasSardas\ProblemaDasSardas\obj\Debug\net6.0\ProblemaDasSardas.AssemblyInfo.cs
+C:\Users\BrunoGonçalvesBarros\Desktop\Bruno\Ciência da Computação\AlgoritmoKahn\ProblemaDasSardas\ProblemaDasSardas\obj\Debug\net6.0\ProblemaDasSardas.csproj.CoreCompileInputs.cache
+C:\Users\BrunoGonçalvesBarros\Desktop\Bruno\Ciência da Computação\AlgoritmoKahn\ProblemaDasSardas\ProblemaDasSardas\obj\Debug\net6.0\ProblemaDasSardas.dll
+C:\Users\BrunoGonçalvesBarros\Desktop\Bruno\Ciência da Computação\AlgoritmoKahn\ProblemaDasSardas\ProblemaDasSardas\obj\Debug\net6.0\refint\ProblemaDasSardas.dll
+C:\Users\BrunoGonçalvesBarros\Desktop\Bruno\Ciência da Computação\AlgoritmoKahn\ProblemaDasSardas\ProblemaDasSardas\obj\Debug\net6.0\ProblemaDasSardas.pdb
+C:\Users\BrunoGonçalvesBarros\Desktop\Bruno\Ciência da Computação\AlgoritmoKahn\ProblemaDasSardas\ProblemaDasSardas\obj\Debug\net6.0\ProblemaDasSardas.genruntimeconfig.cache
+C:\Users\BrunoGonçalvesBarros\Desktop\Bruno\Ciência da Computação\AlgoritmoKahn\ProblemaDasSardas\ProblemaDasSardas\obj\Debug\net6.0\ref\ProblemaDasSardas.dll
